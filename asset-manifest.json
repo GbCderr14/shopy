@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shopy/static/css/main.360cd3cd.css",
-    "main.js": "/shopy/static/js/main.11261ecf.js",
+    "main.js": "/shopy/static/js/main.3c3532f1.js",
     "index.html": "/shopy/index.html",
     "main.360cd3cd.css.map": "/shopy/static/css/main.360cd3cd.css.map",
-    "main.11261ecf.js.map": "/shopy/static/js/main.11261ecf.js.map"
+    "main.3c3532f1.js.map": "/shopy/static/js/main.3c3532f1.js.map"
   },
   "entrypoints": [
     "static/css/main.360cd3cd.css",
-    "static/js/main.11261ecf.js"
+    "static/js/main.3c3532f1.js"
   ]
 }
