@@ -10,9 +10,9 @@ function App() {
       
       <Layout>
       <Routes>
-        <Route path="/" element={<Allitem />}/>
-        <Route path="/favorites" element={<Favorites />}/>
-        <Route path="/wishlist" element={<Wishlist />}/>
+        <Route path="/shopy/" element={<Allitem />}/>
+        <Route path="/shopy/favorites" element={<Favorites />}/>
+        <Route path="/shopy/wishlist" element={<Wishlist />}/>
       </Routes>
       </Layout>
        </div>
