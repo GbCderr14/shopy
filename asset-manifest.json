@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopy/static/css/main.360cd3cd.css",
+    "main.js": "/shopy/static/js/main.cd8365a6.js",
+    "index.html": "/shopy/index.html",
+    "main.360cd3cd.css.map": "/shopy/static/css/main.360cd3cd.css.map",
+    "main.cd8365a6.js.map": "/shopy/static/js/main.cd8365a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.360cd3cd.css",
+    "static/js/main.cd8365a6.js"
+  ]
+}
