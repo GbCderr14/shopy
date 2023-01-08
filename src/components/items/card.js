@@ -12,7 +12,7 @@ function Card(props){
         id: props.id,
         title: props.title,
         description: props.description,
-        image: props.image
+        image: props.img
       });
     }
   }
@@ -25,7 +25,7 @@ function Card(props){
         id: props.id,
         title: props.title,
         description: props.description,
-        image: props.image
+        image: props.img
       });
       console.log("Hello");
     }
